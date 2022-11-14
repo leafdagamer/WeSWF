@@ -29,3 +29,6 @@ Web Version: https://telegra.ph/WeSWF-Library-11-13
 
 
 9: Windows Doors: https://raw.githubusercontent.com/leafdagamer/WeSWFcdn/main/windows_door.swf
+
+
+10: I Wanna Be The Guy: https://raw.githubusercontent.com/leafdagamer/WeSWFcdn/main/IWBTG_Flash_Beta_0.21.swf
